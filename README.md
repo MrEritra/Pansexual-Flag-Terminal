@@ -1,6 +1,8 @@
 # Pansexual-Flag-Terminal
 This simple script will display the Pansexual Flag and the Line "You are valid!" in Terminal. 
 
+![Terminal.png](/Terminal.png)
+
 # Use on Terminal Startup
 Edit the ~/.Bashrc file and add the path of the compiled script.
 
